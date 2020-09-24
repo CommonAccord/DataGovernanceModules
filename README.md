@@ -10,6 +10,18 @@ We'll work from a couple of directions towards a full solution.
 
 2. From common ontologies.
 
+2.1. High Level Entities:
+
+2.1.1.  Persons - Entities, Humans
+
+2.1.2.  Places
+
+2.1.3.  Things
+
+2.1.4.  Relationships
+
 
 Resources: 
 https://wiki.trustoverip.org/display/HOME/Unified+Data+Control+Semantics
+
+
