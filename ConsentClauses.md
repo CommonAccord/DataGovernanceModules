@@ -1,14 +1,14 @@
 TypeOne.sec=text
 
-TypeOne.LegalJustification=justification
+TypeOne.LegalJustification=legitimate interest
 
-TypeOne.HumanDescription=text
+TypeOne.HumanDescription=Consent not Needed
 
-TypeOne.Rights=Obligations and Exemptions
+TypeOne.Rights=  right to object and stop processing.
 
-TypeOne.Icon=
+TypeOne.Icon= Point of signl 
 
 
-TypeTwo=text2
+TypeTwo=Use the right - use the calause to execure 
 
 
