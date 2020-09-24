@@ -9,3 +9,7 @@ We'll work from a couple of directions towards a full solution.
 1. From a modular data sharing agreement.
 
 2. From common ontologies.
+
+
+Resources: 
+https://wiki.trustoverip.org/display/HOME/Unified+Data+Control+Semantics
