@@ -2,3 +2,6 @@ This is a hack location for exploring a Prose Object/CCS (Cascading Content Shee
 
 
 The goal is to impplement modular data governance agreements in CCS format, and to connect that with standards for documents, ontologies and technologies that implement them.
+
+
+We'll work from a couple of directions towards a full solution. 
